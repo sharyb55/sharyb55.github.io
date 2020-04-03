@@ -71,11 +71,11 @@ ul {
     /* min-height: 500px;
     background: url('https://i.ibb.co/PhVR2Vh/bg1.png') no-repeat center center/cover; */
     min-height: 800px;
-    background: url('/imgs/bannerS2.jpeg') no-repeat center center/cover;
+    background: url('/imgs/figura1.jpeg') no-repeat center center/cover;
 }
 
 .section-top h1 {
-    margin-top: 470px;
+    margin-top: 100px;
     font-size: 70px;
     line-height: 1.3;
 }
